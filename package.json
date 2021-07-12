@@ -1,0 +1,27 @@
+{
+  "name": "multi-create",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Script to automate page creation.",
+  "main": "index.js",
+  "bin": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mw-scripts/multi-create.git"
+  },
+  "keywords": [
+    "mediawiki"
+  ],
+  "author": "Lavya Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mw-scripts/multi-create/issues"
+  },
+  "homepage": "https://github.com/mw-scripts/multi-create#readme",
+  "dependencies": {
+    "mwn": "^0.11.1"
+  }
+}

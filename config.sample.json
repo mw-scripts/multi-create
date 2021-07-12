@@ -1,0 +1,12 @@
+{
+  "api_url": "https://lav.fandom.com/api.php",
+  "number": 500,
+  "timeout": 2,
+  "title": "Page $number",
+  "text": "This is page $number.",
+  "summary": "Create page",
+  "auth": {
+    "name": "User@key",
+    "pass": ""
+  }
+}
